@@ -1,9 +1,47 @@
-# 🎯 Number Guessing Game in C  
+# 🚀 C Programming Journey  
 
-## 📌 Overview  
-This is a simple CLI-based number guessing game written in C. The program generates a random number (1-100), and the player keeps guessing until they get it right, with hints provided.  
+## 📌 About This Repository  
+Welcome to my **C Programming Journey!** 🎯  
+This repository contains everything I learn while mastering **C programming**, including:  
+- 🔹 **Fundamentals of C** (Syntax, Loops, Functions, Pointers, etc.)  
+- 🔹 **Data Structures & Algorithms (DSA) in C**  
+- 🔹 **Mini-Projects** to apply concepts in real-world scenarios  
+- 🔹 **Advanced Topics** like File Handling, Dynamic Memory, and more  
 
-## 🚀 How to Run  
-```bash
-gcc guess_the_number.c -o game  
-./game  
+---
+
+## 📂 Folder Structure  
+
+---
+
+## 📝 Learning Progress  
+📅 **Ongoing updates as I learn:**  
+- ✅ **Basics of C (Syntax, Loops, Functions) → [01-Basics](./01-Basics/)**  
+- ✅ **Data Structures Implementation in C → [02-DSA](./02-DSA/)**  
+- 🚀 **Mini Projects → [Mini_Projects](./Mini_Projects/)**  
+- 🔄 **More to come... Stay tuned!**  
+
+---
+
+## 🚀 Mini Projects  
+| 📌 Project Name | 📄 Description | 🔗 Link |  
+|---------------|----------------|---------|  
+| 🎯 **Number Guessing Game** | A simple CLI game where you guess a randomly generated number | [View Code](./Mini_Projects/Number-Guessing-Game/) |  
+
+---
+
+## 🛠️ Technologies Used  
+- **C Language**  
+- **GCC Compiler**  
+- **VS Code / Any C IDE**  
+
+---
+
+## 🙌 Contributing  
+Feel free to **fork this repo**, **open issues**, or **suggest improvements**! 🚀  
+
+---
+
+## 📩 Connect with Me  
+🐦 **Twitter:** [@AyushhJamwall](https://x.com/AyushhJamwall)  
+📂 **GitHub:** [Ayush-Jamwal](https://github.com/Ayush-Jamwal)  
